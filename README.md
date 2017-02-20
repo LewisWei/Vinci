@@ -28,4 +28,4 @@ PDF 文档检索工具。
 - [ ] 确定可在 Node.js 下协同工作的 pdf2text 技术方案（支持标准的 PDF 文件）
 - [ ] 搭建 Node 服务和 Electron 应用
 - [ ] 搭建前端自动化开发工具集
-- [ ] React 实现
+- [ ] React 实现 
