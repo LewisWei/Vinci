@@ -1,0 +1,3 @@
+- [x] 搭建 electron 开发环境
+- [x] 运行 hello world
+- [ ] 构建一个 React + Webpack 的 hello world 应用
